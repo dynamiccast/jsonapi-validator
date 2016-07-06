@@ -118,8 +118,7 @@
       "description": "\"Resource objects\" appear in a JSON API document to represent resources.",
       "type": "object",
       "required": [
-        "type",
-        "id"
+        "type"
       ],
       "properties": {
         "type": {
